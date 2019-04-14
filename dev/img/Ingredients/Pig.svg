@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="44px" viewBox="0 0 51 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Pig</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-133.000000, -537.000000)" stroke="#A2CD4D">
+            <g id="Middle-Ingredients" transform="translate(0.000000, 368.000000)">
+                <g id="Pig" transform="translate(134.000000, 170.000000)">
+                    <path d="M2.92576626,17.5845186 L0,17.5845186 L0,26.2952758 L2.92576626,26.2952758 C2.92576626,26.2952758 24.2493961,45.3754278 39.3005937,30.0286653 C54.3503247,14.6819028 35.119461,5.97260054 32.6101948,5.1418268 C30.1009286,4.31250801 18.8128971,5.1418268 18.8128971,5.1418268 C18.8128971,5.1418268 17.5604638,-1.07951908 8.77876534,0.164459104 L12.9613645,5.97260054 C12.9613645,5.97260054 3.76169948,12.6071509 2.92576626,17.5845186 Z" id="Stroke-1"></path>
+                    <path d="M11,17.5 L13,17.5" id="Stroke-3"></path>
+                    <path d="M22,7.25141704 C22,7.25141704 30.0268387,5.3509845 34,12" id="Stroke-5"></path>
+                    <path d="M45,21 C45,21 49,19.2025068 49,15" id="Stroke-7"></path>
+                    <path d="M34.5,33 L34.5,43" id="Stroke-9"></path>
+                    <path d="M14.5,33 L14.5,43" id="Stroke-11"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

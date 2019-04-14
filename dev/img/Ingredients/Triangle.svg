@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="51px" viewBox="0 0 52 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Triangle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-134.000000, -1424.000000)" stroke="#E3C926">
+            <g id="Middle-Ingredients" transform="translate(0.000000, 368.000000)">
+                <g id="Triangle" transform="translate(135.000000, 1056.000000)">
+                    <polygon id="Stroke-1" points="0 50 50 50 0.429405183 0"></polygon>
+                    <polygon id="Stroke-3" points="6 44 29 44 6 21"></polygon>
+                    <path d="M6,12 L8,10" id="Stroke-4"></path>
+                    <path d="M8,18 L13,13" id="Stroke-5"></path>
+                    <path d="M17,26 L21,22" id="Stroke-6"></path>
+                    <path d="M21,31 L26,26" id="Stroke-7"></path>
+                    <path d="M27,34 L31,30" id="Stroke-8"></path>
+                    <path d="M32,40 L36,36" id="Stroke-9"></path>
+                    <path d="M38,45 L42,41" id="Stroke-10"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

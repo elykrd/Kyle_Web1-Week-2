@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="53px" height="42px" viewBox="0 0 53 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Cards</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-132.000000, -1059.000000)" stroke="#B43A3D">
+            <g id="Middle-Ingredients" transform="translate(0.000000, 368.000000)">
+                <g id="Cards" transform="translate(133.000000, 692.000000)">
+                    <path d="M7.71346963,0.0281049341 C7.71346963,0.0281049341 0,0.0281049341 0,2.42699705 L0,28.4220093 C0,28.4220093 0.856885147,30.4224889 3.85748647,30.8223043 C6.85808779,31.2221196 42.000902,30.8223043 42.000902,30.8223043 C42.000902,30.8223043 45,28.4220093 45,26.4229325 L45,3.62644311 C45,3.62644311 44.1416115,-0.371710419 41.1425135,0.0281049341 C38.1419122,0.427920287 7.71346963,0.0281049341 7.71346963,0.0281049341 Z" id="Stroke-1"></path>
+                    <path d="M4,4.5 L6,4.5" id="Stroke-3"></path>
+                    <path d="M10,4.5 L12,4.5" id="Stroke-5"></path>
+                    <path d="M15,4.5 L17,4.5" id="Stroke-7"></path>
+                    <path d="M5.73805905,31.0121603 L5.73805905,37.1074786 C5.73805905,37.1074786 5.52487577,40 10.2,40 L47.5995031,40 C47.5995031,40 51,38.4515224 51,35.5068051 L51,11.0675366 C51,11.0675366 48.0243788,9 44.6253727,9 L0,9" id="Stroke-9"></path>
+                    <path d="M45,17.5 L51,17.5" id="Stroke-11"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

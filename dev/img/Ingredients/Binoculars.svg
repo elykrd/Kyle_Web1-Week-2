@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="49px" viewBox="0 0 51 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Binoculars</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-135.000000, -879.000000)" stroke="#B24F83">
+            <g id="Middle-Ingredients" transform="translate(0.000000, 368.000000)">
+                <g id="Binoculars" transform="translate(136.000000, 512.000000)">
+                    <path d="M13,20 C13,20 24.7596464,8.75 34,20" id="Stroke-1"></path>
+                    <path d="M22,35.5 C22,41.8519968 17.0743389,47 11,47 C4.92417701,47 0,41.8519968 0,35.5 C0,29.1480032 4.92417701,24 11,24 C17.0743389,24 22,29.1480032 22,35.5 Z" id="Stroke-3"></path>
+                    <path d="M49,35.4992243 C49,41.8507926 44.075823,47 38,47 C31.924177,47 27,41.8507926 27,35.4992243 C27,29.1492074 31.924177,24 38,24 C44.075823,24 49,29.1492074 49,35.4992243 Z" id="Stroke-5"></path>
+                    <path d="M21.5,15 L21.5,36" id="Stroke-7"></path>
+                    <path d="M28,15 L26,36" id="Stroke-9"></path>
+                    <path d="M0,33 L14.6703206,2.15102466 C14.6703206,2.15102466 19.6246122,-0.438780823 21,2.15102466 L21,11.3622509" id="Stroke-11"></path>
+                    <path d="M48,33 L32.9069054,1.14642776 C32.9069054,1.14642776 27.3595377,-1.43303469 27,1.14642776 L27,11.4612624" id="Stroke-13"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

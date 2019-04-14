@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="46px" viewBox="0 0 39 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Timer Thing</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.452794118 0.0162694737 2.65867647 0.0162694737 2.65867647 7.26315789 0.452794118 7.26315789"></polygon>
+        <polygon id="path-3" points="0.109614502 0.170253476 10.2159865 0.170253476 10.2159865 1.64765348 0.109614502 1.64765348"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-138.000000, -714.000000)">
+            <g id="Middle-Ingredients" transform="translate(0.000000, 368.000000)">
+                <g id="Timer-Thing" transform="translate(138.000000, 346.000000)">
+                    <path d="M6,18 L12,24" id="Stroke-1" stroke="#4590AD"></path>
+                    <path d="M0,28.5 L8,28.5" id="Stroke-2" stroke="#4590AD"></path>
+                    <path d="M6,40 L12,34" id="Stroke-4" stroke="#4590AD"></path>
+                    <g id="Group-7" transform="translate(17.000000, 38.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-6"></g>
+                        <path d="M1.55573529,7.26344842 L1.55573529,0.0162694737" id="Stroke-5" stroke="#4590AD" mask="url(#mask-2)"></path>
+                    </g>
+                    <path d="M23,34 L29,40" id="Stroke-8" stroke="#4590AD"></path>
+                    <g id="Group-20" transform="translate(13.000000, 0.000000)">
+                        <g id="Group-11">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <g id="Clip-10"></g>
+                            <path d="M0.109614502,0.908436024 L10.2159865,0.908436024" id="Stroke-9" stroke="#4590AD" mask="url(#mask-4)"></path>
+                        </g>
+                        <path d="M4.81935117,6.38751577 C4.81935117,6.38751577 21.9393496,5.54480788 25.1738991,27.4626053 L4.81935117,27.4626053 L4.81935117,0.908436024" id="Stroke-12" stroke="#4590AD"></path>
+                        <path d="M10.2158447,21.1400785 L15.6738811,15.4495825" id="Stroke-14" stroke="#4590AD"></path>
+                        <polyline id="Stroke-16" stroke="#4590AD" points="17.99578 11.8016922 22.3619256 7.24959117 24.8605123 9.85459347"></polyline>
+                        <path d="M22.3620674,7.24944332 L18.7545733,3.48830493" id="Stroke-18" stroke="#4590AD"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

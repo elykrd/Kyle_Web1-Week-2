@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Info Circle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-198.000000, -4213.000000)">
+            <g id="Pricing" transform="translate(-36.000000, 3653.000000)">
+                <g id="Info-Circle" transform="translate(200.000000, 468.000000)">
+                    <g transform="translate(34.000000, 90.000000)">
+                        <circle id="Oval" fill="#9CCF2E" cx="7.5" cy="9.5" r="7.5"></circle>
+                        <text id="i" font-family="RobotoSlab-Bold, Roboto Slab" font-size="12.5" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="6" y="13">i</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="51px" viewBox="0 0 40 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Cup</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-140.000000, -1227.000000)" stroke="#F7971D">
+            <g id="Middle-Ingredients" transform="translate(0.000000, 368.000000)">
+                <g id="Cup" transform="translate(141.000000, 860.000000)">
+                    <path d="M0.040969598,22 L30,22 L30,44.3452148 C30,44.3452148 29.1563338,48.5616558 26.6253352,48.983152 L2.57344828,48.983152 C2.57344828,48.983152 -0.37938338,49.4046482 0.040969598,46.0311996 L0.040969598,22 Z" id="Stroke-1"></path>
+                    <path d="M1,14.9275 L7,14.0725" id="Stroke-3"></path>
+                    <path d="M22,6.5 L17,6.5" id="Stroke-5"></path>
+                    <path d="M22,11.5 L17,11.5" id="Stroke-7"></path>
+                    <path d="M23,14.5 L16,14.5" id="Stroke-9"></path>
+                    <path d="M22,18.5 L19,18.5" id="Stroke-11"></path>
+                    <polyline id="Stroke-13" points="27.3744181 23 32 15.3837021 27.3744181 13.6918511 21.9080894 23 21.9080894 1 12.2350772 1 12.2350772 23 0 7.76740421 0 16.6540745 4.24650841 23"></polyline>
+                    <path d="M28.2446312,12.3520066 C28.2446312,12.3520066 25.4442111,9.05890849 28.2446312,5.35272877 C31.0436482,1.64654906 28.2446312,0 28.2446312,0 C28.2446312,0 39.8433651,6.58764057 32.6444896,14" id="Stroke-15"></path>
+                    <path d="M30,25 C30,25 38.4048562,25 37.9847608,31.2896583 C37.5646654,37.5807875 33.3622373,37.161575 30,38" id="Stroke-17"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
